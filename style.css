@@ -154,7 +154,7 @@ body{
   border-bottom: 1px solid #eee;
   transition: color .2s;
 }
-.mobile-nav a:hover { 
+.mobilenav-link:hover { 
     color: var(--primary-color); 
 }
 .mobile-nav .nav-actions{
